@@ -6,5 +6,5 @@ def meal_choice(veg1, veg2, prot = "tofu")
   
   choice = "A plate of #{prot} with #{veg1} and #{veg2}."
   puts choice
-  return choice
+  #return choice
 end
